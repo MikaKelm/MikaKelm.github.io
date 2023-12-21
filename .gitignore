@@ -1,1 +1,6 @@
 .DS_Store
+
+# for local jekyll exec
+Gemfile.lock
+_size
+.jekyll-cache
