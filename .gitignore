@@ -2,5 +2,5 @@
 
 # for local jekyll exec
 Gemfile.lock
-_size
+./_size
 .jekyll-cache
